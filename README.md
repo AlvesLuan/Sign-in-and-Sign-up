@@ -24,3 +24,13 @@
     6️⃣ Clicar em "Go Live"
 
 <h1 align="center"><img src='https://ik.imagekit.io/AlvesLuan/headmes/liveserver?ik-sdk-version=javascript-1.4.3&updatedAt=1668888882956'> </h1>
+
+## E PRONTO!
+
+### Agora é só criar um cadastro e logar :)
+
+## Exemplo de uso em caso de usuario inexistente:
+
+<h1 align="center"><img src='https://ik.imagekit.io/AlvesLuan/headmes/errorlogin_vys7lB5MJ.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1668890224604'> </h1>
+
+## Caso o usuario esteja no sistema você será redirecionado para uma pagina generica
