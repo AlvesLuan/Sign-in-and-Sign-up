@@ -9,6 +9,8 @@
 
     2️⃣ Extraia a pasta onde desejar. 
 
+<h1 align="center"><img src='https://ik.imagekit.io/AlvesLuan/headmes/extraia.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1668889075724'> </h1>
+
     3️⃣ abrir a pasta no VSCODE(IDE que eu usei pra fazer).
 
     4️⃣ Abrir a aplicação com a extensão Live Server :
