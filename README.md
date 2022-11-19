@@ -15,8 +15,12 @@
 
     4️⃣ Abrir a aplicação com a extensão Live Server :
     
-<h1 align="center"><img src='<h1 align="center"><img src='[https://ik.imagekit.io/AlvesLuan/headmes/liveserverLOGO.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1668889199577](https://ik.imagekit.io/AlvesLuan/headmes/liveserverLOGO.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1668889408728)'> </h1>'> </h1> 
+<h1 align="center"><img src='https://ik.imagekit.io/AlvesLuan/headmes/liveserverLOGO.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1668889408728'> </h1>
  
-<h1 align="center"><img src='https://ik.imagekit.io/AlvesLuan/headmes/liveserver?ik-sdk-version=javascript-1.4.3&updatedAt=1668888882956'> </h1>
 
-    5️⃣ 
+
+    5️⃣ Clicar no arquivo "TelaLogin.html"
+    
+    6️⃣ Clicar em "Go Live"
+
+<h1 align="center"><img src='https://ik.imagekit.io/AlvesLuan/headmes/liveserver?ik-sdk-version=javascript-1.4.3&updatedAt=1668888882956'> </h1>
