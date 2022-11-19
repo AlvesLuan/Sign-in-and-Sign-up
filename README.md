@@ -1,7 +1,5 @@
 # Sistema Sign in e Sign up de usuários.
 
-Uma simples tela 
-
 ## 🚀 Como rodar?
 
 ## 📁**Para Execução:**
