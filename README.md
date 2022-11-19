@@ -2,7 +2,6 @@
 
 ## 🚀 Como rodar?
 
-## 📁**Para Execução:**
 
     1️⃣ Baixar o arquivo .zip:
 
